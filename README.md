@@ -6,6 +6,10 @@ Public data for "Machine learning-based prediction of FeNi nanoparticle magnetiz
 
 ML scripts are available in the `ml_scripts` folder.
 
+## Full source code
+
+Full source code can be seen in [this repository](https://github.com/MightyHelper/feni-ml-magnetization).
+
 ## Data
 
 The dataset is available in [huggingface](https://huggingface.co/datasets/Ailurion/feni-nanoparticles).
